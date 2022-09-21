@@ -4,3 +4,7 @@
     border: 2px solid black;
     padding: 20px;
 }
+
+.country img {
+    width: 150px;
+}
